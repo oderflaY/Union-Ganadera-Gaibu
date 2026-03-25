@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.gaibu.unionganadera.composeApp-mergeDebugResources-41:/values-da/values-da.xml",
+            "outputFile": "com.gaibu.unionganadera.composeApp-mergeDebugResources-48:/values-da/values-da.xml",
             "map": [
                 {
-                    "source": "/home/oderflay/.gradle/caches/8.14.3/transforms/05928629139c6dc7057f04c72710599e/transformed/ui/res/values-da/values-da.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,201,293,373,468,567,649,726,815,904,986,1067,1151,1221,1312,1386,1458,1529,1607,1674",
-                        "endColumns": "95,91,79,94,98,81,76,88,88,81,80,83,69,90,73,71,70,77,66,119",
-                        "endOffsets": "196,288,368,463,562,644,721,810,899,981,1062,1146,1216,1307,1381,1453,1524,1602,1669,1789"
-                    },
-                    "to": {
-                        "startLines": "3,11,12,13,14,15,16,17,86,87,88,89,90,91,92,93,94,96,97,98",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "209,1032,1124,1204,1299,1398,1480,1557,8977,9066,9148,9229,9313,9383,9474,9548,9620,9792,9870,9937",
-                        "endColumns": "95,91,79,94,98,81,76,88,88,81,80,83,69,90,73,71,70,77,66,119",
-                        "endOffsets": "300,1119,1199,1294,1393,1475,1552,1641,9061,9143,9224,9308,9378,9469,9543,9615,9686,9865,9932,10052"
-                    }
-                },
-                {
-                    "source": "/home/oderflay/.gradle/caches/8.14.3/transforms/ccd57701c4faa8f1de2cca4f07a672b0/transformed/core-1.16.0/res/values-da/values-da.xml",
+                    "source": "/home/tto415/.gradle/caches/8.14.3/transforms/ccd57701c4faa8f1de2cca4f07a672b0/transformed/core-1.16.0/res/values-da/values-da.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/home/oderflay/.gradle/caches/8.14.3/transforms/55b5d0a3bdaf28cc4050aead514ad6bb/transformed/foundation/res/values-da/values-da.xml",
+                    "source": "/home/tto415/.gradle/caches/8.14.3/transforms/05928629139c6dc7057f04c72710599e/transformed/ui/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,293,373,468,567,649,726,815,904,986,1067,1151,1221,1312,1386,1458,1529,1607,1674",
+                        "endColumns": "95,91,79,94,98,81,76,88,88,81,80,83,69,90,73,71,70,77,66,119",
+                        "endOffsets": "196,288,368,463,562,644,721,810,899,981,1062,1146,1216,1307,1381,1453,1524,1602,1669,1789"
+                    },
+                    "to": {
+                        "startLines": "3,11,12,13,14,15,16,17,86,87,88,89,90,91,92,93,94,96,97,98",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "209,1032,1124,1204,1299,1398,1480,1557,8977,9066,9148,9229,9313,9383,9474,9548,9620,9792,9870,9937",
+                        "endColumns": "95,91,79,94,98,81,76,88,88,81,80,83,69,90,73,71,70,77,66,119",
+                        "endOffsets": "300,1119,1199,1294,1393,1475,1552,1641,9061,9143,9224,9308,9378,9469,9543,9615,9686,9865,9932,10052"
+                    }
+                },
+                {
+                    "source": "/home/tto415/.gradle/caches/8.14.3/transforms/55b5d0a3bdaf28cc4050aead514ad6bb/transformed/foundation/res/values-da/values-da.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/home/oderflay/.gradle/caches/8.14.3/transforms/40396bea6141fffc116018ca7f0b6c74/transformed/material3/res/values-da/values-da.xml",
+                    "source": "/home/tto415/.gradle/caches/8.14.3/transforms/40396bea6141fffc116018ca7f0b6c74/transformed/material3/res/values-da/values-da.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

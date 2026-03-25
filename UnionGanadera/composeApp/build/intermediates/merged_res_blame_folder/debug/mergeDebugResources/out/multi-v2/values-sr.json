@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.gaibu.unionganadera.composeApp-mergeDebugResources-41:/values-sr/values-sr.xml",
+            "outputFile": "com.gaibu.unionganadera.composeApp-mergeDebugResources-48:/values-sr/values-sr.xml",
             "map": [
                 {
-                    "source": "/home/oderflay/.gradle/caches/8.14.3/transforms/55b5d0a3bdaf28cc4050aead514ad6bb/transformed/foundation/res/values-sr/values-sr.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,168,256",
-                        "endColumns": "112,87,89",
-                        "endOffsets": "163,251,341"
-                    },
-                    "to": {
-                        "startLines": "2,99,100",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "105,10233,10321",
-                        "endColumns": "112,87,89",
-                        "endOffsets": "213,10316,10406"
-                    }
-                },
-                {
-                    "source": "/home/oderflay/.gradle/caches/8.14.3/transforms/40396bea6141fffc116018ca7f0b6c74/transformed/material3/res/values-sr/values-sr.xml",
+                    "source": "/home/tto415/.gradle/caches/8.14.3/transforms/40396bea6141fffc116018ca7f0b6c74/transformed/material3/res/values-sr/values-sr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/home/oderflay/.gradle/caches/8.14.3/transforms/05928629139c6dc7057f04c72710599e/transformed/ui/res/values-sr/values-sr.xml",
+                    "source": "/home/tto415/.gradle/caches/8.14.3/transforms/55b5d0a3bdaf28cc4050aead514ad6bb/transformed/foundation/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,168,256",
+                        "endColumns": "112,87,89",
+                        "endOffsets": "163,251,341"
+                    },
+                    "to": {
+                        "startLines": "2,99,100",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,10233,10321",
+                        "endColumns": "112,87,89",
+                        "endOffsets": "213,10316,10406"
+                    }
+                },
+                {
+                    "source": "/home/tto415/.gradle/caches/8.14.3/transforms/05928629139c6dc7057f04c72710599e/transformed/ui/res/values-sr/values-sr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/home/oderflay/.gradle/caches/8.14.3/transforms/ccd57701c4faa8f1de2cca4f07a672b0/transformed/core-1.16.0/res/values-sr/values-sr.xml",
+                    "source": "/home/tto415/.gradle/caches/8.14.3/transforms/ccd57701c4faa8f1de2cca4f07a672b0/transformed/core-1.16.0/res/values-sr/values-sr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
