@@ -29,6 +29,19 @@ kotlin {
         androidMain.dependencies {
             implementation(libs.compose.uiToolingPreview)
             implementation(libs.androidx.activity.compose)
+            // CameraX
+            implementation("androidx.camera:camera-core:1.3.4")
+            implementation("androidx.camera:camera-camera2:1.3.4")
+            implementation("androidx.camera:camera-lifecycle:1.3.4")
+            implementation("androidx.camera:camera-view:1.3.4")
+            // ML Kit Document Scanner
+            implementation("com.google.android.gms:play-services-mlkit-document-scanner:16.0.0-beta1")
+            // Coil OkHttp solo Android
+            implementation("io.coil-kt.coil3:coil-network-okhttp:3.0.4")
+            // Drag and drop
+            implementation("sh.calvin.reorderable:reorderable:2.4.0")
+            // PDF
+            implementation("com.itextpdf:itext7-core:7.2.5")
         }
         commonMain.dependencies {
             implementation(libs.compose.runtime)
@@ -41,6 +54,8 @@ kotlin {
             implementation(libs.androidx.lifecycle.runtimeCompose)
             implementation("org.jetbrains.androidx.navigation:navigation-compose:2.8.0-alpha10")
             implementation("org.jetbrains.compose.material:material-icons-extended:1.7.3")
+            // Coil base multiplataforma
+            implementation("io.coil-kt.coil3:coil-compose:3.0.4")
         }
         commonTest.dependencies {
             implementation(libs.kotlin.test)

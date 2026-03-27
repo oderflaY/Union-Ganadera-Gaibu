@@ -29,7 +29,7 @@ fun AppNavigation() {
             // ConfiguracionScreen(navController)
         }
         composable(Screen.EscanerDocumentos.route) {
-            // EscanerScreen(navController)
+            DocumentScannerScreen(navController)
         }
         composable(Screen.CalculadoraAlimentos.route) {
             // CalculadoraScreen(navController)
@@ -37,5 +37,6 @@ fun AppNavigation() {
         composable(Screen.SubirDocumentosAnimales.route) {
             // SubirDocumentosScreen(navController)
         }
+
     }
 }

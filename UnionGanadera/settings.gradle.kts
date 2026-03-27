@@ -14,6 +14,9 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
+plugins {
+    id("org.gradle.toolchains.foojay-resolver-convention") version "1.0.0"
+}
 
 dependencyResolutionManagement {
     repositories {
@@ -25,6 +28,10 @@ dependencyResolutionManagement {
             }
         }
         mavenCentral()
+
+        // Add the repositories here:
+        maven(url = "https://nexus.scanbot.io/nexus/content/repositories/releases/")
+        maven(url = "https://nexus.scanbot.io/nexus/content/repositories/snapshots/")
     }
 }
 
